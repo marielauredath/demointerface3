@@ -1,6 +1,6 @@
 <?php
 
-$name = "Cyber";
+$name = "Cyber C";
 $first = "Marie-Laure";
 $tel = "Welcome on my wonderfull Curriculum Vitae";
 
